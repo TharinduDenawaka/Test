@@ -1,1 +1,1 @@
-console.log("Hello Homepage");
+console.log("Hello Homepages");
